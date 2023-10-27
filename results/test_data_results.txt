@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.3, pytest-7.4.0, pluggy-1.3.0
+rootdir: /home/user/Training/Cats_Dogs
+configfile: pyproject.toml
+plugins: anyio-3.7.1
+collected 3 items
+
+tests/test_data.py ...                                                   [100%]
+
+======================== 3 passed, 10 warnings in 0.09s ========================
